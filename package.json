@@ -16,7 +16,5 @@
     "url": "https://github.com/slashdollar/slashdollar.github.io/issues"
   },
   "homepage": "https://github.com/slashdollar/slashdollar.github.io#readme",
-  "dependencies": {
-    "gsheet-web": "^3.0.1"
-  }
+  "dependencies": {}
 }
